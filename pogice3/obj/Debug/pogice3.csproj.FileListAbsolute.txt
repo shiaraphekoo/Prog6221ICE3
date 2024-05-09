@@ -1,0 +1,10 @@
+C:\Users\pheko\source\repos\pogice3\obj\Debug\pogice3.csproj.AssemblyReference.cache
+C:\Users\pheko\source\repos\pogice3\obj\Debug\pogice3.Form1.resources
+C:\Users\pheko\source\repos\pogice3\obj\Debug\pogice3.Properties.Resources.resources
+C:\Users\pheko\source\repos\pogice3\obj\Debug\pogice3.csproj.GenerateResource.cache
+C:\Users\pheko\source\repos\pogice3\obj\Debug\pogice3.csproj.CoreCompileInputs.cache
+C:\Users\pheko\source\repos\pogice3\bin\Debug\pogice3.exe.config
+C:\Users\pheko\source\repos\pogice3\bin\Debug\pogice3.exe
+C:\Users\pheko\source\repos\pogice3\bin\Debug\pogice3.pdb
+C:\Users\pheko\source\repos\pogice3\obj\Debug\pogice3.exe
+C:\Users\pheko\source\repos\pogice3\obj\Debug\pogice3.pdb
